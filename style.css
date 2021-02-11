@@ -1,0 +1,22 @@
+body{
+
+    background-color: deepskyblue;
+}
+
+.heading{
+
+    font-size: 22px;
+    width: 80%;
+}
+
+#camera{
+
+    width: 340px;
+    height: 340px;
+    border: 6px dashed darkslategrey;
+
+}
+.image{
+
+    color: green;
+}
